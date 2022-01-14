@@ -1,0 +1,6 @@
+[submodule "DeepLearningTrainingLib"]
+	path = DeepLearningTrainingLib
+	url = git@github.com:pcalixtop/DeepLearningTrainingLib.git
+[submodule "DeepLearningTrainingApp"]
+	path = DeepLearningTrainingApp
+	url = git@github.com:pcalixtop/DeepLearningTrainingApp.git
